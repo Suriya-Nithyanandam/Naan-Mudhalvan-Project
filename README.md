@@ -10,15 +10,15 @@ Purely Educational
  Website URL : https://therunicsbookstore.wixsite.com/the-runics-bookstore
 
  Description  :    We have created a website for a Book store
-                   called " The Runics - Bookstore ".
+                  called " The Runics - Bookstore ".
                     
-                   The website was designed using Canva.
+                  The website was designed using Canva.
               
-                   Then it was created using Wix website creator
-                   and published.
+                  Then it was created using Wix website creator
+                  and published.
 
-                   Then the sitemap (.XML) file of the created
-                   Website was uploaded into the google 
-                   search console. 
+                  Then the sitemap (.XML) file of the created
+                  Website was uploaded into the google 
+                  search console. 
 
 Drive Link  :  https://drive.google.com/drive/folders/1jDgBfaH798k0o2eNFILupIlaVBMM2VjO?usp=sharing               
