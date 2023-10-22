@@ -2,8 +2,7 @@
 Purely Educational
 
 
- This is the repository to hold all the project documentations of Naan Mudhalvan Project.
-
+ This repository holds all the project documentations of Naan Mudhalvan Project.
 
  Project Title  -  Building a Website and Uploading the Website's sitemap to Google Search Console ...
 
